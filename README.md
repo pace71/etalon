@@ -15,26 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>user</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
-  <o:Revision>11</o:Revision>
+  <o:Revision>12</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2018-03-08T16:09:00Z</o:Created>
-<<<<<<< HEAD
-  <o:LastSaved>2018-03-08T17:33:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>4</o:Words>
-  <o:Characters>28</o:Characters>
-  <o:Lines>1</o:Lines>
-  <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>31</o:CharactersWithSpaces>
-=======
-  <o:LastSaved>2018-03-08T17:31:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-08T17:40:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>5</o:Words>
   <o:Characters>31</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>35</o:CharactersWithSpaces>
->>>>>>> dc49673eb024029462868835184ea1e83451c22c
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -42,6 +32,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="README.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -360,6 +352,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:"Times New Roman","serif";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -395,7 +393,7 @@ div.Section1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="6146"/>
+ <o:shapedefaults v:ext="edit" spidmax="7170"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -406,19 +404,14 @@ div.Section1
 
 <div class=Section1>
 
-<<<<<<< HEAD
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>HEAD
-</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>za zadachi po git ot kursa<o:p></o:p></span></p>
-=======
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'>za</span></span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> <span
-class=SpellE>dobri</span> <span class=SpellE>reshenia</span> <span
-class=SpellE><span class=spelle>za</span></span> <span class=SpellE><span
+<p class=MsoNormal><span class=SpellE><span class=GramE><span class=spelle><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EN-US'>za</span></span></span></span><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US'> <span class=SpellE><span
+class=spelle>dobri</span></span> <span class=SpellE><span class=spelle>reshenia</span></span>
+<span class=SpellE><span class=spelle>za</span></span> <span class=SpellE><span
 class=spelle>zadachi</span></span> <span class=SpellE><span class=spelle>po</span></span>
 <span class=SpellE><span class=spelle>git</span></span><o:p></o:p></span></p>
->>>>>>> dc49673eb024029462868835184ea1e83451c22c
 
 </div>
 
