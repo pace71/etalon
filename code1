@@ -20,4 +20,10 @@ namespace ConsoleApp166
             numbers = helper;
             Console.WriteLine(string.Join(" ",numbers));
         }
-    }
+    } 
+
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+ƒ¿ Õ¿“»— ¿ÿ
