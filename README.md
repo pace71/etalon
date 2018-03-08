@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>user</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
-  <o:Revision>5</o:Revision>
-  <o:TotalTime>0</o:TotalTime>
+  <o:Revision>6</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
   <o:Created>2018-03-08T16:09:00Z</o:Created>
-  <o:LastSaved>2018-03-08T16:14:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-08T17:25:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>2</o:Words>
-  <o:Characters>14</o:Characters>
+  <o:Words>3</o:Words>
+  <o:Characters>20</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>15</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>22</o:CharactersWithSpaces>
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -385,7 +385,7 @@ div.Section1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="3074"/>
+ <o:shapedefaults v:ext="edit" spidmax="4098"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -398,7 +398,7 @@ div.Section1
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>HEAD
 </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>za zadachi<o:p></o:p></span></p>
+mso-ansi-language:EN-US'>za zadachi po git<o:p></o:p></span></p>
 
 </div>
 
