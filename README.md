@@ -16,6 +16,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
   <o:Revision>5</o:Revision>
+<<<<<<< HEAD
   <o:TotalTime>1</o:TotalTime>
   <o:Created>2018-03-08T16:09:00Z</o:Created>
   <o:LastSaved>2018-03-08T16:16:00Z</o:LastSaved>
@@ -25,6 +26,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>16</o:CharactersWithSpaces>
+=======
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2018-03-08T16:09:00Z</o:Created>
+  <o:LastSaved>2018-03-08T16:14:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>2</o:Words>
+  <o:Characters>14</o:Characters>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>15</o:CharactersWithSpaces>
+>>>>>>> f146bae1670dbfbd262637969ec8736fac1bb4e8
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -398,10 +410,15 @@ div.Section1
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>HEAD
 </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+<<<<<<< HEAD
 mso-ansi-language:EN-US'>za reshenia<o:p></o:p></span></p>
+=======
+mso-ansi-language:EN-US'>za zadachi<o:p></o:p></span></p>
+>>>>>>> f146bae1670dbfbd262637969ec8736fac1bb4e8
 
 </div>
 
 </body>
 
 </html>
+>>>>>>> 6e6df2652a8192b616a0c10ed704ab86fe8d8716
