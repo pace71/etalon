@@ -18,6 +18,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Revision>11</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2018-03-08T16:09:00Z</o:Created>
+<<<<<<< HEAD
   <o:LastSaved>2018-03-08T17:33:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>4</o:Words>
@@ -25,6 +26,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>31</o:CharactersWithSpaces>
+=======
+  <o:LastSaved>2018-03-08T17:31:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>5</o:Words>
+  <o:Characters>31</o:Characters>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>35</o:CharactersWithSpaces>
+>>>>>>> dc49673eb024029462868835184ea1e83451c22c
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -396,9 +406,19 @@ div.Section1
 
 <div class=Section1>
 
+<<<<<<< HEAD
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>HEAD
 </span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>za zadachi po git ot kursa<o:p></o:p></span></p>
+=======
+<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US'>za</span></span><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> <span
+class=SpellE>dobri</span> <span class=SpellE>reshenia</span> <span
+class=SpellE><span class=spelle>za</span></span> <span class=SpellE><span
+class=spelle>zadachi</span></span> <span class=SpellE><span class=spelle>po</span></span>
+<span class=SpellE><span class=spelle>git</span></span><o:p></o:p></span></p>
+>>>>>>> dc49673eb024029462868835184ea1e83451c22c
 
 </div>
 
