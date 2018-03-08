@@ -1,4 +1,6 @@
 namespace ConsoleApp166
+namespace ConsoleApp166
+
 
 using System.Collections.Generic;
 using System.Linq;
