@@ -15,28 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>user</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
-  <o:Revision>5</o:Revision>
-<<<<<<< HEAD
-  <o:TotalTime>1</o:TotalTime>
+  <o:Revision>7</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
   <o:Created>2018-03-08T16:09:00Z</o:Created>
-  <o:LastSaved>2018-03-08T16:16:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-08T16:17:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>2</o:Words>
   <o:Characters>15</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>16</o:CharactersWithSpaces>
-=======
-  <o:TotalTime>0</o:TotalTime>
-  <o:Created>2018-03-08T16:09:00Z</o:Created>
-  <o:LastSaved>2018-03-08T16:14:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>2</o:Words>
-  <o:Characters>14</o:Characters>
-  <o:Lines>1</o:Lines>
-  <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>15</o:CharactersWithSpaces>
->>>>>>> f146bae1670dbfbd262637969ec8736fac1bb4e8
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -44,6 +32,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="README.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -362,6 +352,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:"Times New Roman","serif";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -397,7 +390,7 @@ div.Section1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="3074"/>
+ <o:shapedefaults v:ext="edit" spidmax="4098"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -409,14 +402,13 @@ div.Section1
 <div class=Section1>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>HEAD
-</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-<<<<<<< HEAD
-mso-ansi-language:EN-US'>za reshenia<o:p></o:p></span></p>
-=======
-mso-ansi-language:EN-US'>za zadachi<o:p></o:p></span></p>
->>>>>>> f146bae1670dbfbd262637969ec8736fac1bb4e8
+</span><span style='<<<<<<< HEAD
+mso-ansi-language:EN-US'><span class=SpellE><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EN-US'>za</span></span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'> <span class=SpellE>reshenia</span><o:p></o:p></span></p>
 
-</div>
+</span></div>
 
 </body>
 
