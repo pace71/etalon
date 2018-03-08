@@ -1,3 +1,3 @@
 # etalon
 urok 
-zap
+za zadachi
