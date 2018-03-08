@@ -1,3 +1,3 @@
 # etalon
 urok 
-zapodobrenie
+zapo
