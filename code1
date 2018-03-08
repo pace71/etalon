@@ -1,7 +1,10 @@
+<<<<<<< HEAD
+=======
  namespace ConsoleApp166
 
 ConsoleApp166
 namespace ConsoleApp166
+>>>>>>> 6d269c667cce99b2daf0c4e1928c8296d14e1bcd
 
 
 using System.Collections.Generic;
